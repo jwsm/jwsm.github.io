@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2014-08-03 18:17:02
-categories: jekyll
+categories:
 ---
 
 {% highlight ruby %}
