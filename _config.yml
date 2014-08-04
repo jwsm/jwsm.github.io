@@ -1,0 +1,12 @@
+# Site settings
+title: "Jonathan Stuart Moore"
+email: jstuartm@gmail.com
+description: "Music, Technology, and other random ponderings"
+baseurl: ""
+url: "http://jwsm.github.io"
+twitter_username: jwsm
+github_username:  jwsm
+
+# Build settings
+markdown: kramdown
+permalink: pretty
